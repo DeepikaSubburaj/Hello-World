@@ -1,1 +1,2 @@
 rebase example 
+update branch 1 and try rebasing with master
