@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-testing squash and merge
-=======
-<<<<<<< HEAD
-testing squash and merge -update for mege each commit
-=======
-testing squash and merge
->>>>>>> f1fccdaeb6fe85bcc07a14da0883ec817583c04b
->>>>>>> master
+file 1
