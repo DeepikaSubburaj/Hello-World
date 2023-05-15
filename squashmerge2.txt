@@ -1,1 +1,1 @@
-testing squash merge 2 file-updated
+testing squash merge 2 file-updated 2
