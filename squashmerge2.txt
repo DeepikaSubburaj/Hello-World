@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testing squash merge 2 file-updated 2
+=======
+testing squash merge 2 file
+>>>>>>> f1fccdaeb6fe85bcc07a14da0883ec817583c04b
